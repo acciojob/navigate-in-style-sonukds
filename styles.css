@@ -9,7 +9,7 @@ ul{
 	
 }
 li{
-	display:inline;
+	display: inline-flex;
 	margin-right:1rem;
 	
 }
